@@ -1,0 +1,494 @@
+linkedin url after adding cookie -> https://www.linkedin.com/feed/
+current cookie : cookies/cookies_john_smith.pkl
+linkedin url in select section -> https://www.linkedin.com/company/01-communique/
+linkedin url in select section -> https://www.linkedin.com/company/01-communique/about/
+company : 01 Communique Laboratory Inc.  & company_website : https://www.01com.com/
+counter : 1
+linkedin url in select section -> https://www.linkedin.com/company/10xgenomics/
+linkedin url in select section -> https://www.linkedin.com/company/10xgenomics/about/
+company : 10x Genomics, Inc.  & company_website : https://www.10xgenomics.com/
+counter : 2
+linkedin url in select section -> https://www.linkedin.com/company/1mage-software/about/
+linkedin url in select section -> https://www.linkedin.com/company/1mage-software/about/
+company : 1mage Software, Inc.  & company_website : https://1mage.com/
+counter : 3
+linkedin url in select section -> https://www.linkedin.com/company/1spatial/
+linkedin url in select section -> https://www.linkedin.com/company/1spatial/about/
+company : 1Spatial Plc  & company_website : https://1spatial.com/
+counter : 4
+linkedin url in select section -> https://www.linkedin.com/company/23andme/
+linkedin url in select section -> https://www.linkedin.com/company/23andme/about/
+company : 23andMe Holding Co.  & company_website : https://www.23andme.com/
+counter : 5
+linkedin url in select section -> https://www.linkedin.com/company/24sevenoffice/
+linkedin url in select section -> https://www.linkedin.com/company/24sevenoffice/about/
+company : 24SevenOffice Group AB  & company_website : https://24sevenoffice.com/se/
+counter : 6
+linkedin url in select section -> https://www.linkedin.com/company/3i-infotech/
+linkedin url in select section -> https://www.linkedin.com/company/3i-infotech/about/
+company : 3i Infotech Limited  & company_website : https://www.3i-infotech.com/
+counter : 7
+linkedin url in select section -> https://www.linkedin.com/company/4dmedical/
+linkedin url in select section -> https://www.linkedin.com/company/4dmedical/about/
+company : 4DMedical Limited  & company_website : https://4dmedical.com/
+counter : 8
+linkedin url in select section -> https://www.linkedin.com/company/4ig/
+linkedin url in select section -> https://www.linkedin.com/company/4ig/about/
+company : 4iG Nyrt.  & company_website : https://www.4ig.hu/
+counter : 9
+linkedin url in select section -> https://www.linkedin.com/company/4sightholdings/
+linkedin url in select section -> https://www.linkedin.com/company/4sightholdings/about/
+company : 4Sight Holdings Limited  & company_website : https://4sight.cloud/about
+counter : 10
+linkedin url in select section -> https://www.linkedin.com/company/63-moons-%E2%84%A2/
+linkedin url in select section -> https://www.linkedin.com/company/63-moons-%E2%84%A2/about/
+company : 63 moons technologies limited  & company_website : https://www.63moons.com/
+counter : 11
+linkedin url in select section -> https://www.linkedin.com/company/six-dimensions/
+linkedin url in select section -> https://www.linkedin.com/company/six-dimensions/about/
+company : 6D Global Technologies, Inc.  & company_website : http://www.6dglobal.com/
+counter : 12
+linkedin url in select section -> https://www.linkedin.com/company/7digital/
+linkedin url in select section -> https://www.linkedin.com/company/7digital/about/
+company : 7digital Group plc  & company_website : https://www.7digital.com/
+counter : 13
+linkedin url in select section -> https://www.linkedin.com/company/8x8/
+linkedin url in select section -> https://www.linkedin.com/company/8x8/about/
+company : 8x8, Inc.  & company_website : https://www.8x8.com/
+counter : 14
+linkedin url in select section -> https://www.linkedin.com/company/a10networks/
+linkedin url in select section -> https://www.linkedin.com/company/a10networks/about/
+company : A10 Networks, Inc.  & company_website : https://www.a10networks.com/
+counter : 15
+linkedin url in select section -> https://www.linkedin.com/company/aaa-technologies-pvt-ltd-/
+linkedin url in select section -> https://www.linkedin.com/company/aaa-technologies-pvt-ltd-/about/
+company : AAA Technologies Limited  & company_website : http://www.aaatechnologies.co.in
+counter : 16
+linkedin url in select section -> https://www.linkedin.com/company/aamracompanies/
+linkedin url in select section -> https://www.linkedin.com/company/aamracompanies/about/
+company : aamra technologies limited  & company_website : https://www.aamratechnologies.com/
+counter : 17
+linkedin url in select section -> https://www.linkedin.com/company/aarti-drugs-limited/
+linkedin url in select section -> https://www.linkedin.com/company/aarti-drugs-limited/about/
+company : Aarti Drugs Limited  & company_website : https://www.aartidrugs.co.in/
+counter : 18
+linkedin url in select section -> https://www.linkedin.com/company/abc-multiactive-hk-limited/
+linkedin url in select section -> https://www.linkedin.com/company/abc-multiactive-hk-limited/about/
+company : abc Multiactive Limited  & company_website : https://www.abcmultiactive.com/
+counter : 19
+linkedin url in select section -> https://www.linkedin.com/company/abcellera/
+linkedin url in select section -> https://www.linkedin.com/company/abcellera/about/
+Time out at sales filter
+company : AbCellera Biologics Inc.  & company_website : https://www.abcellera.com/
+counter : 20
+linkedin url in select section -> https://www.linkedin.com/company/abm-knowledgeware-ltd/
+linkedin url in select section -> https://www.linkedin.com/company/abm-knowledgeware-ltd/about/
+company : ABM Knowledgeware Limited  & company_website : http://www.abmindia.com
+counter : 21
+linkedin url in select section -> https://www.linkedin.com/company/absci/
+linkedin url in select section -> https://www.linkedin.com/company/absci/about/
+Time out at sales filter
+company : Absci Corporation  & company_website : https://www.absci.com/
+counter : 22
+linkedin url in select section -> https://www.linkedin.com/company/absolute-software/
+linkedin url in select section -> https://www.linkedin.com/company/absolute-software/about/
+company : Absolute Software Corporation  & company_website : https://www.absolute.com/
+counter : 23
+linkedin url in select section -> https://www.linkedin.com/company/accelerated-technologies-holding-corp/about/
+linkedin url in select section -> https://www.linkedin.com/company/accelerated-technologies-holding-corp/about/
+Time out at sales filter
+company : Accelerated Technologies Holding Corp.  & company_website : https://athc.com/
+counter : 24
+linkedin url in select section -> https://www.linkedin.com/company/acceleware/
+linkedin url in select section -> https://www.linkedin.com/company/acceleware/about/
+company : Acceleware Ltd.  & company_website : https://www.acceleware.com/
+counter : 25
+linkedin url in select section -> https://www.linkedin.com/company/accelya/
+linkedin url in select section -> https://www.linkedin.com/company/accelya/about/
+company : Accelya Solutions India Limited  & company_website : https://w3.accelya.com/
+counter : 26
+linkedin url in select section -> https://www.linkedin.com/company/accenture/
+linkedin url in select section -> https://www.linkedin.com/company/accenture/about/
+company : Accenture plc  & company_website : https://www.accenture.com/us-en
+counter : 27
+linkedin url in select section -> https://www.linkedin.com/company/access-co-ltd/
+linkedin url in select section -> https://www.linkedin.com/company/access-co-ltd/about/
+company : Access Co., Ltd.  & company_website : https://www.access-company.com/
+counter : 28
+linkedin url in select section -> https://www.linkedin.com/company/access-intelligence-plc/
+linkedin url in select section -> https://www.linkedin.com/company/access-intelligence-plc/about/
+company : Access Intelligence Plc  & company_website : https://www.accessintelligence.com/
+counter : 29
+linkedin url in select section -> https://www.linkedin.com/company/accesso/
+linkedin url in select section -> https://www.linkedin.com/company/accesso/about/
+company : accesso Technology Group plc  & company_website : https://www.accesso.com/
+counter : 30
+linkedin url in select section -> https://www.linkedin.com/company/ace-software-export-limited/about/
+linkedin url in select section -> https://www.linkedin.com/company/ace-software-export-limited/about/
+Time out at sales filter
+company : Ace Software Exports Limited  & company_website : http://www.acesoftex.com/
+counter : 31
+linkedin url in select section -> https://www.linkedin.com/company/acer/?trk=ppro_cprof
+company : Acer e-Enabling Service Business Inc.  & company_website : https://www.aceraeb.com/mainssl/modules/MySpace/index.php
+counter : 32
+linkedin url in select section -> https://www.linkedin.com/company/achiko/
+linkedin url in select section -> https://www.linkedin.com/company/achiko/about/
+company : Achiko AG  & company_website : https://www.achiko.com/
+counter : 33
+linkedin url in select section -> https://www.linkedin.com/company/aci-worldwide/
+linkedin url in select section -> https://www.linkedin.com/company/aci-worldwide/about/
+company : ACI Worldwide, Inc.  & company_website : https://www.aciworldwide.com/
+counter : 34
+linkedin url in select section -> https://www.linkedin.com/company/aclaris-therapeutics-inc-/
+linkedin url in select section -> https://www.linkedin.com/company/aclaris-therapeutics-inc-/about/
+company : Aclaris Therapeutics, Inc.  & company_website : https://www.aclaristx.com/
+counter : 35
+linkedin url in select section -> https://www.linkedin.com/company/acteos/
+linkedin url in select section -> https://www.linkedin.com/company/acteos/about/
+company : ACTEOS S.A.  & company_website : https://www.acteos.com/
+counter : 36
+linkedin url in select section -> https://www.linkedin.com/company/activeops/
+linkedin url in select section -> https://www.linkedin.com/company/activeops/about/
+company : ActiveOps Plc  & company_website : https://activeops.com/
+counter : 37
+linkedin url in select section -> https://www.linkedin.com/company/computers-groupe-activium/
+linkedin url in select section -> https://www.linkedin.com/company/computers-groupe-activium/about/
+company : Activium Group SAS  & company_website : https://www.activium-id.com/
+counter : 38
+linkedin url in select section -> https://www.linkedin.com/company/actual-experience/
+linkedin url in select section -> https://www.linkedin.com/company/actual-experience/about/
+company : Actual Experience plc  & company_website : https://www.actual-experience.com/
+counter : 39
+linkedin url in select section -> https://www.linkedin.com/company/adacel/
+linkedin url in select section -> https://www.linkedin.com/company/adacel/about/
+company : Adacel Technologies Limited  & company_website : https://www.adacel.com/
+counter : 40
+linkedin url in select section -> https://www.linkedin.com/company/adaptive-biotechnologies-corp-/
+linkedin url in select section -> https://www.linkedin.com/company/adaptive-biotechnologies-corp-/about/
+company : Adaptive Biotechnologies Corporation  & company_website : https://www.adaptivebiotech.com/
+counter : 41
+linkedin url in select section -> https://www.linkedin.com/company/adcoreinc/
+linkedin url in select section -> https://www.linkedin.com/company/adcoreinc/about/
+company : Adcore Inc.  & company_website : https://www.adcore.com/
+counter : 42
+linkedin url in select section -> https://www.linkedin.com/company/addlife-ab/
+linkedin url in select section -> https://www.linkedin.com/company/addlife-ab/about/
+company : AddLife AB  & company_website : https://www.add.life/
+counter : 43
+linkedin url in select section -> https://www.linkedin.com/company/addnode-group-ab/
+linkedin url in select section -> https://www.linkedin.com/company/addnode-group-ab/about/
+company : Addnode Group AB  & company_website : https://www.addnodegroup.com/sv
+counter : 44
+linkedin url in select section -> https://www.linkedin.com/company/adesso-se/
+linkedin url in select section -> https://www.linkedin.com/company/adesso-se/about/
+company : adesso SE  & company_website : https://www.adesso.de/de/
+counter : 45
+linkedin url in select section -> https://www.linkedin.com/company/adherium/
+linkedin url in select section -> https://www.linkedin.com/company/adherium/about/
+Time out at sales filter
+company : Adherium Limited  & company_website : https://www.adherium.com/
+counter : 46
+linkedin url in select section -> https://www.linkedin.com/company/adm-korea-inc-/
+linkedin url in select section -> https://www.linkedin.com/company/adm-korea-inc-/about/
+Time out at sales filter
+company : ADM Korea Inc.  & company_website : http://www.admkorea.co.kr/
+counter : 47
+linkedin url in select section -> https://www.linkedin.com/company/admicom-oy/
+linkedin url in select section -> https://www.linkedin.com/company/admicom-oy/about/
+company : Admicom Oyj  & company_website : https://admicom.fi/
+counter : 48
+linkedin url in select section -> https://www.linkedin.com/company/adobe/
+linkedin url in select section -> https://www.linkedin.com/company/adobe/about/
+company : Adobe Inc.  & company_website : http://www.adobe.com
+counter : 49
+linkedin url in select section -> https://www.linkedin.com/company/adroit-infotech-pvt.-ltd./
+linkedin url in select section -> https://www.linkedin.com/company/adroit-infotech-pvt.-ltd./about/
+company : Adroit Infotech Limited  & company_website : http://www.adroitinfotech.com/
+counter : 50
+linkedin url in select section -> https://www.linkedin.com/company/advanced-bitcoin-technologies-ag/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-bitcoin-technologies-ag/about/
+Time out at sales filter
+company : Advanced Bitcoin Technologies AG  & company_website : https://www.abt-ag.com/en/
+counter : 51
+linkedin url in select section -> https://www.linkedin.com/company/advanced-information-technology-public-co.-ltd./
+linkedin url in select section -> https://www.linkedin.com/company/advanced-information-technology-public-co.-ltd./about/
+company : Advanced Information Technology Public Company Limited  & company_website : https://www.ait.co.th/en/home
+counter : 52
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-inc._2/about/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-inc./about/
+linkedin url in select section -> https://www.linkedin.com/company/amt/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-services-inc-/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-solutions/about/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-inc-ritek-usa/
+linkedin url in select section -> https://www.linkedin.com/company/advanced-media-llc/about/
+linkedin url in select section -> https://www.linkedin.com/company/advancedmedia/?trk=similar-pages_result-card_full-click
+linkedin url in select section -> https://www.linkedin.com/company/advancedmedia/about/
+company : Advanced Media, Inc.  & company_website : https://www.advanced-media.co.jp/
+counter : 53
+linkedin url in select section -> https://www.linkedin.com/company/advenica-ab/
+linkedin url in select section -> https://www.linkedin.com/company/advenica-ab/about/
+company : Advenica AB  & company_website : https://advenica.com/
+counter : 54
+linkedin url in select section -> https://www.linkedin.com/company/adyen/
+linkedin url in select section -> https://www.linkedin.com/company/adyen/about/
+company : Adyen N.V.  & company_website : https://www.adyen.com/
+counter : 55
+linkedin url in select section -> https://www.linkedin.com/company/affinity-networks-inc-/about/
+linkedin url in select section -> https://www.linkedin.com/company/affinity-networks-inc-/about/
+Time out at sales filter
+company : Affinity Networks, Inc.  & company_website : https://theanigroup.com/
+counter : 56
+linkedin url in select section -> https://www.linkedin.com/company/affirm/
+linkedin url in select section -> https://www.linkedin.com/company/affirm/about/
+company : Affirm Holdings, Inc.  & company_website : https://www.affirm.com/
+counter : 57
+linkedin url in select section -> https://www.linkedin.com/company/araplindia/
+linkedin url in select section -> https://www.linkedin.com/company/araplindia/about/
+company : Affordable Robotic & Automation Limited  & company_website : https://arapl.co.in/
+counter : 58
+linkedin url in select section -> https://www.linkedin.com/company/afterpay-com-au/
+linkedin url in select section -> https://www.linkedin.com/company/afterpay-com-au/about/
+company : Afterpay Limited  & company_website : https://www.afterpay.com/en-US
+counter : 59
+linkedin url in select section -> https://www.linkedin.com/company/agfa/
+linkedin url in select section -> https://www.linkedin.com/company/agfa/about/
+company : Agfa-Gevaert NV  & company_website : https://www.agfa.com/corporate/
+counter : 60
+linkedin url in select section -> https://www.linkedin.com/company/agilecontent/
+linkedin url in select section -> https://www.linkedin.com/company/agilecontent/about/
+company : Agile Content, S.A.  & company_website : https://www.agilecontent.com/tv/
+counter : 61
+linkedin url in select section -> https://www.linkedin.com/company/agilent-technologies/
+linkedin url in select section -> https://www.linkedin.com/company/agilent-technologies/about/
+company : Agilent Technologies, Inc.  & company_website : https://www.agilent.com/
+counter : 62
+linkedin url in select section -> https://www.linkedin.com/company/agilethought/
+linkedin url in select section -> https://www.linkedin.com/company/agilethought/about/
+company : AgileThought, Inc.  & company_website : https://agilethought.com/
+counter : 63
+linkedin url in select section -> https://www.linkedin.com/company/agillic/
+linkedin url in select section -> https://www.linkedin.com/company/agillic/about/
+company : Agillic A/S  & company_website : https://agillic.com/
+counter : 64
+linkedin url in select section -> https://www.linkedin.com/company/agilysys/
+linkedin url in select section -> https://www.linkedin.com/company/agilysys/about/
+company : Agilysys, Inc.  & company_website : https://www.agilysys.com/en/
+counter : 65
+linkedin url in select section -> https://www.linkedin.com/company/agora-lab-inc/
+linkedin url in select section -> https://www.linkedin.com/company/agora-lab-inc/about/
+company : Agora, Inc.  & company_website : https://www.agora.io/en/
+counter : 66
+linkedin url in select section -> https://www.linkedin.com/company/agtech-holdings-limited/about/
+linkedin url in select section -> https://www.linkedin.com/company/agtech-holdings-limited/about/
+company : AGTech Holdings Limited  & company_website : https://www.agtech.com/
+counter : 67
+linkedin url in select section -> https://www.linkedin.com/company/ahnlab-inc./
+linkedin url in select section -> https://www.linkedin.com/company/ahnlab-inc./about/
+company : AhnLab, Inc.  & company_website : https://global.ahnlab.com/site/main.do
+counter : 68
+linkedin url in select section -> https://www.linkedin.com/company/aiinside/
+linkedin url in select section -> https://www.linkedin.com/company/aiinside/about/
+company : AI inside Inc.  & company_website : https://inside.ai/en/
+counter : 69
+linkedin url in select section -> https://www.linkedin.com/company/ailleron/
+linkedin url in select section -> https://www.linkedin.com/company/ailleron/about/
+company : Ailleron S.A.  & company_website : https://ailleron.com/pl/
+counter : 70
+linkedin url in select section -> https://www.linkedin.com/company/ainoproductivity/
+linkedin url in select section -> https://www.linkedin.com/company/ainoproductivity/about/
+company : Aino Health AB  & company_website : https://ainohealth.com/
+counter : 71
+linkedin url in select section -> https://www.linkedin.com/company/airan-limited/
+linkedin url in select section -> https://www.linkedin.com/company/airan-limited/about/
+company : Airan Limited  & company_website : https://airanlimited.com/
+counter : 72
+linkedin url in select section -> https://www.linkedin.com/company/airiq/
+linkedin url in select section -> https://www.linkedin.com/company/airiq/about/
+company : AirIQ Inc.  & company_website : https://airiq.com/
+counter : 73
+linkedin url in select section -> https://www.linkedin.com/company/aisino-corporation/
+linkedin url in select section -> https://www.linkedin.com/company/aisino-corporation/about/
+company : Aisino Corporation  & company_website : http://www.aisino.com/
+counter : 74
+linkedin url in select section -> https://www.linkedin.com/company/akamai-technologies/
+linkedin url in select section -> https://www.linkedin.com/company/akamai-technologies/about/
+company : Akamai Technologies, Inc.  & company_website : http://www.akamai.com
+counter : 75
+linkedin url in select section -> https://www.linkedin.com/company/akoya-biosciences-inc/
+linkedin url in select section -> https://www.linkedin.com/company/akoya-biosciences-inc/about/
+company : Akoya Biosciences, Inc.  & company_website : https://www.akoyabio.com/
+counter : 76
+linkedin url in select section -> https://www.linkedin.com/company/al-moammar-information-systems/
+linkedin url in select section -> https://www.linkedin.com/company/al-moammar-information-systems/about/
+company : Al Moammar Information Systems Company  & company_website : https://www.mis.com.sa/
+counter : 77
+linkedin url in select section -> https://www.linkedin.com/company/optimiza/
+linkedin url in select section -> https://www.linkedin.com/company/optimiza/about/
+company : Al-Faris National Company for Investment & Export P.L.C.  & company_website : https://optimiza.me/
+counter : 78
+linkedin url in select section -> https://www.linkedin.com/company/aladdin-healthcare-technologies/
+linkedin url in select section -> https://www.linkedin.com/company/aladdin-healthcare-technologies/about/
+Time out at sales filter
+company : Aladdin Healthcare Technologies SE  & company_website : https://www.aladdinid.com/
+counter : 79
+linkedin url in select section -> https://www.linkedin.com/company/alarm-com/
+linkedin url in select section -> https://www.linkedin.com/company/alarm-com/about/
+company : Alarm.com Holdings, Inc.  & company_website : https://alarm.com/
+counter : 80
+linkedin url in select section -> https://www.linkedin.com/company/alchera-inc/
+linkedin url in select section -> https://www.linkedin.com/company/alchera-inc/about/
+company : Alchera Inc.  & company_website : https://www.alcherainc.com/en/
+counter : 81
+linkedin url in select section -> https://www.linkedin.com/company/alcidion/
+linkedin url in select section -> https://www.linkedin.com/company/alcidion/about/
+company : Alcidion Group Limited  & company_website : https://www.alcidion.com/
+counter : 82
+linkedin url in select section -> https://www.linkedin.com/company/alfasystems/
+linkedin url in select section -> https://www.linkedin.com/company/alfasystems/about/
+company : Alfa Financial Software Holdings PLC  & company_website : http://www.alfasystems.com/
+counter : 83
+linkedin url in select section -> https://www.linkedin.com/company/getalfi/
+linkedin url in select section -> https://www.linkedin.com/company/getalfi/about/
+company : Alfi, Inc.  & company_website : https://www.getalfi.com/
+counter : 84
+linkedin url in select section -> https://www.linkedin.com/company/alithya/
+linkedin url in select section -> https://www.linkedin.com/company/alithya/about/
+company : Alithya Group Inc.  & company_website : https://www.alithya.com/en
+counter : 85
+linkedin url in select section -> https://www.linkedin.com/company/alj-regional-holdings-inc-aljj-/about/
+linkedin url in select section -> https://www.linkedin.com/company/alj-regional-holdings-inc-aljj-/about/
+Time out at sales filter
+company : ALJ Regional Holdings, Inc.  & company_website : http://www.aljregionalholdings.com/alj/
+counter : 86
+linkedin url in select section -> https://www.linkedin.com/company/alkamitech/
+linkedin url in select section -> https://www.linkedin.com/company/alkamitech/about/
+company : Alkami Technology, Inc.  & company_website : https://www.alkami.com/
+counter : 87
+linkedin url in select section -> https://www.linkedin.com/company/all-for-one-group-se/
+linkedin url in select section -> https://www.linkedin.com/company/all-for-one-group-se/about/
+company : All for One Group SE  & company_website : https://www.all-for-one.com/
+counter : 88
+linkedin url in select section -> https://www.linkedin.com/company/alldigital-inc./about/
+linkedin url in select section -> https://www.linkedin.com/company/alldigital-inc./about/
+company : AllDigital Holdings, Inc.  & company_website : http://www.alldigital.com
+counter : 89
+linkedin url in select section -> https://www.linkedin.com/company/allgeier-holding-ag/
+linkedin url in select section -> https://www.linkedin.com/company/allgeier-holding-ag/about/
+company : Allgeier SE  & company_website : https://www.allgeier.com/en/
+counter : 90
+linkedin url in select section -> https://www.linkedin.com/company/alliance-data/
+linkedin url in select section -> https://www.linkedin.com/company/alliance-data-corporation/about/
+linkedin url in select section -> https://www.linkedin.com/company/alliancedatacardservices/
+company : Alliance Data Systems Corporation  & company_website : https://www.alliancedata.com/home/default.aspx
+counter : 91
+linkedin url in select section -> https://www.linkedin.com/company/adslin/
+linkedin url in select section -> https://www.linkedin.com/company/adslin/about/
+company : Allied Digital Services Limited  & company_website : https://www.allieddigital.net/in/
+counter : 92
+linkedin url in select section -> https://www.linkedin.com/company/allot-communications/
+linkedin url in select section -> https://www.linkedin.com/company/allot-communications/about/
+company : Allot Ltd.  & company_website : https://www.allot.com/
+counter : 93
+linkedin url in select section -> https://www.linkedin.com/company/allscripts/?utm_source=Linkedin&utm_medium=SOC&utm_campaign=MISC
+linkedin url in select section -> https://www.linkedin.com/company/allscripts/about/
+company : Allscripts Healthcare Solutions, Inc.  & company_website : https://www.allscripts.com/
+counter : 94
+linkedin url in select section -> https://www.linkedin.com/company/allscripts/?utm_source=Linkedin&utm_medium=SOC&utm_campaign=MISC
+linkedin url in select section -> https://www.linkedin.com/company/allscripts/about/
+company : Allscripts Healthcare Solutions Inc.  & company_website : https://www.allscripts.com/
+counter : 95
+linkedin url in select section -> https://www.linkedin.com/company/allterco-jsco/
+linkedin url in select section -> https://www.linkedin.com/company/allterco-jsco/
+linkedin url in select section -> https://www.linkedin.com/company/allterco-jsco/
+company : Allterco AD  & company_website : https://allterco.com/en/home/
+counter : 96
+linkedin url in select section -> https://www.linkedin.com/company/almawave/
+linkedin url in select section -> https://www.linkedin.com/company/almawave/about/
+company : Almawave S.p.A.  & company_website : https://www.almawave.com/it/
+counter : 97
+linkedin url in select section -> https://www.linkedin.com/company/teknovascience/
+linkedin url in select section -> https://www.linkedin.com/company/teknovascience/about/
+company : Alpha Teknova, Inc.  & company_website : https://www.teknova.com/
+counter : 98
+linkedin url in select section -> https://www.linkedin.com/company/alphahelix-molecular-diagnostics-ab/
+linkedin url in select section -> https://www.linkedin.com/company/alphahelix-molecular-diagnostics-ab/about/
+company : AlphaHelix Molecular Diagnostics AB  & company_website : http://www.alphahelix.com/sv/home.htm
+counter : 99
+linkedin url in select section -> https://www.linkedin.com/company/alphalogic-inc/
+linkedin url in select section -> https://www.linkedin.com/company/alphalogic-inc/about/
+company : Alphalogic Techsys Limited  & company_website : https://www.alphalogicinc.com/
+counter : 100
+linkedin url in select section -> https://www.linkedin.com/company/01-communique/
+linkedin url in select section -> https://www.linkedin.com/company/01-communique/about/
+company : 01 Communique Laboratory Inc.  & company_website : https://www.01com.com/
+counter : 101
+linkedin url in select section -> https://www.linkedin.com/company/10xgenomics/
+linkedin url in select section -> https://www.linkedin.com/company/10xgenomics/about/
+company : 10x Genomics, Inc.  & company_website : https://www.10xgenomics.com/
+counter : 102
+linkedin url in select section -> https://www.linkedin.com/company/1mage-software/about/
+linkedin url in select section -> https://www.linkedin.com/company/1mage-software/about/
+company : 1mage Software, Inc.  & company_website : https://1mage.com/
+counter : 103
+linkedin url in select section -> https://www.linkedin.com/company/1spatial/
+linkedin url in select section -> https://www.linkedin.com/company/1spatial/about/
+company : 1Spatial Plc  & company_website : https://1spatial.com/
+counter : 104
+linkedin url in select section -> https://www.linkedin.com/company/23andme/
+linkedin url in select section -> https://www.linkedin.com/company/23andme/about/
+company : 23andMe Holding Co.  & company_website : https://www.23andme.com/
+counter : 105
+linkedin url in select section -> https://www.linkedin.com/company/24sevenoffice/
+linkedin url in select section -> https://www.linkedin.com/company/24sevenoffice/about/
+company : 24SevenOffice Group AB  & company_website : https://24sevenoffice.com/se/
+counter : 106
+linkedin url in select section -> https://www.linkedin.com/company/3i-infotech/
+linkedin url in select section -> https://www.linkedin.com/company/3i-infotech/about/
+company : 3i Infotech Limited  & company_website : https://www.3i-infotech.com/
+counter : 107
+linkedin url in select section -> https://www.linkedin.com/company/4dmedical/
+linkedin url in select section -> https://www.linkedin.com/company/4dmedical/about/
+company : 4DMedical Limited  & company_website : https://4dmedical.com/
+counter : 108
+linkedin url in select section -> https://www.linkedin.com/company/4ig/
+linkedin url in select section -> https://www.linkedin.com/company/4ig/about/
+company : 4iG Nyrt.  & company_website : https://www.4ig.hu/
+counter : 109
+linkedin url in select section -> https://www.linkedin.com/company/4sightholdings/
+linkedin url in select section -> https://www.linkedin.com/company/4sightholdings/about/
+company : 4Sight Holdings Limited  & company_website : https://4sight.cloud/about
+counter : 110
+linkedin url in select section -> https://www.linkedin.com/company/63-moons-%E2%84%A2/
+linkedin url in select section -> https://www.linkedin.com/company/63-moons-%E2%84%A2/about/
+company : 63 moons technologies limited  & company_website : https://www.63moons.com/
+counter : 111
+linkedin url in select section -> https://www.linkedin.com/company/six-dimensions/
+linkedin url in select section -> https://www.linkedin.com/company/six-dimensions/about/
+company : 6D Global Technologies, Inc.  & company_website : http://www.6dglobal.com/
+counter : 112
+linkedin url in select section -> https://www.linkedin.com/company/7digital/
+linkedin url in select section -> https://www.linkedin.com/company/7digital/about/
+company : 7digital Group plc  & company_website : https://www.7digital.com/
+counter : 113
+linkedin url in select section -> https://www.linkedin.com/company/8x8/
+linkedin url in select section -> https://www.linkedin.com/company/8x8/about/
+company : 8x8, Inc.  & company_website : https://www.8x8.com/
+counter : 114
+linkedin url in select section -> https://www.linkedin.com/company/a10networks/
+linkedin url in select section -> https://www.linkedin.com/company/a10networks/about/
+company : A10 Networks, Inc.  & company_website : https://www.a10networks.com/
+counter : 115
+linkedin url in select section -> https://www.linkedin.com/company/aaa-technologies-pvt-ltd-/
+linkedin url in select section -> https://www.linkedin.com/company/aaa-technologies-pvt-ltd-/about/
+company : AAA Technologies Limited  & company_website : http://www.aaatechnologies.co.in
+counter : 116
+linkedin url in select section -> https://www.linkedin.com/company/aamracompanies/
+linkedin url in select section -> https://www.linkedin.com/company/aamracompanies/about/
+company : aamra technologies limited  & company_website : https://www.aamratechnologies.com/
+counter : 117
+linkedin url in select section -> https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGNu1_-Z7lh4gAAAYAKkfP4pHmCpufw-ROdUIcl9jHINrrhrqplII1GPCthcalB0rWgTz1n_C-4wkUEnRuWORGKSLJeHxz5vfEpZOQysreeUegerCjc-3zgVhmzlCMtdXmSfg0=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faarti-drugs-limited
+linkedin url in select section -> https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQGjL1v5nz61ewAAAYAKkrswkoI8sU7hp6B_JR3YxbyS-6Tnm5kfgwIDYh2Alk_UYAXSZjfQHSG5JFsympPw9S9EZEUBiD8NlUKA9v1TaY--0r7WICaTxuvkXkIIEJwharu1z2M=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faarti-drugs-ltd---india
+linkedin url in select section -> https://www.linkedin.com/authwall?trk=ripf&trkInfo=AQHGpg8HFvV4DAAAAYAKk44gtAR2yCslHhMY-D9Piu7mjCZpx1zXoZt3gd34WYGyrYA7jmlZC-Tr5J5QuxomMFn5WWgE0amDq3Mv1SlF0hebbXRlQYAxXnBLVGaOjD0NdWTSjVo=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Faarti-drugs-limited.-boisar
+company : Aarti Drugs Limited  & company_website : https://www.aartidrugs.co.in/
+counter : 118
+##########AUTHWALL#############################
